@@ -1,1 +1,1 @@
-# caveatron-hardware-documentation
+# Documentation for Assembling the Caveatron Hardware
