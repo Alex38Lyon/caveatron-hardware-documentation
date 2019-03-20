@@ -15,3 +15,9 @@ Caveatron 25m LIDAR Enclosure Base.pdf - mechanical drawing of 25m (SWEEP) LIDAR
 Caveatron 25m LIDAR base.stl - STL 3D file of the base insert onto which to mount the SWEEP LIDAR
 
 Caveatron 25m LIDAR Module Lid.stl - STL 3D file of the enclosure lid of the 25m (SWEEP) LIDAR enclosure
+
+Caveatron 12m LIDAR Enclosure Base.pdf - STL 3D file of the base portion of the enclosure for the 12m (RPLIDAR A1M8) LIDAR module
+
+Caveatron 12m LIDAR Enclosure Lid (Bottom).stl - STL 3D file of the bottom half of the lid for the 12m (RPLIDAR A1M8) LIDAR module
+
+Caveatron 12m LIDAR Enclosure Lid (Top).stl - STL 3D file of the top half of the lid for the 12m (RPLIDAR A1M8) LIDAR module
